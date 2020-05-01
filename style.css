@@ -3,7 +3,8 @@
     padding: 0;
 }
 body {
-    background: white;
+    background: black;
+    color: white;
     font-size: 10em;
 
     position: absolute;
